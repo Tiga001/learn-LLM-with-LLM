@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
 
+# 隐私/敏感信息（不提交到 git）
+学生信息
+
 # Python
 __pycache__/
 *.py[cod]
