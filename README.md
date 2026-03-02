@@ -1,4 +1,4 @@
-# 手撕 LLM + RLHF
+# 手撕 LLM
 
 <p align="center">
   <img src="https://img.shields.io/badge/周期-18~22_周-green" alt="duration" />
@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/更新中-orange" alt="status" />
 </p>
 
-从零手写大语言模型核心代码，系统掌握 LLM 全栈技术。
+大预言模型教你从零手写大语言模型核心代码，系统掌握 LLM 全栈技术。
 
 ## 这是什么
 
